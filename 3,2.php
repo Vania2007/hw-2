@@ -30,5 +30,5 @@ $footer = <<<EOD
 </body>
 </html>
 EOD;
-$page = "$header\n$body";
+$page = "$header\n$body\n$footer";
 echo $page;
